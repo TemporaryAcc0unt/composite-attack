@@ -1,0 +1,3 @@
+classes=80
+valid=../coco/5k_clean.txt
+names=data/coco.names

@@ -1,0 +1,3 @@
+classes=80
+valid=../coco/5k_poison.txt
+names=data/coco.names

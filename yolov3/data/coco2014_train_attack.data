@@ -1,0 +1,5 @@
+classes=80
+train=../coco/trainvalno5k_all.txt
+valid=../coco/5k_clean.txt
+poison=../coco/5k_poison.txt
+names=data/coco.names
