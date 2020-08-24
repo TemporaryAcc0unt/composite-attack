@@ -9,7 +9,7 @@ from torchvision import transforms
 import matplotlib.pyplot as plt
 from PIL import Image
 
-from model.vggface import get_net
+from model.cw import get_net
 from utils.util import *
 from utils.dataset import *
 from utils.mixer import *
